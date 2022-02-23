@@ -1,3 +1,7 @@
-# jogosOO
-Desenvolvimento do jogo da forca e adivinhação sendo da forca orientado a objetos
-Para uma experiência completa baixe todos os arquivos e execute pelo arquivo "jogos", ele é nosso "lancher" dos dois jogos
+# Jogos Orientados a Objetos
+Lancher dos Jogos
+![image](https://user-images.githubusercontent.com/49988034/155247208-b7c33794-e99c-400e-9987-f0c4ea161044.png)
+
+IDE utilizada --> Pycharm
+Bibliotecas --> Random
+
